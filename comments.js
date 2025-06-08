@@ -1,4 +1,4 @@
-// create web server using Express.js
+// Create web server
 const express = require('express');
 const app = express();
 const port = 3000;
